@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="xiaoyu"></dbname>
+
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.xpf.booksapp.model.LibsInfo"></mapping>
+        <mapping class="com.xpf.booksapp.model.LibsType"></mapping>
+        <mapping class="com.xpf.booksapp.model.SearchHistory"></mapping>
+        <mapping class="com.xpf.booksapp.model.StudentInfo"></mapping>
+    </list>
+
+    <storage value="internal" />
+
+</litepal>
